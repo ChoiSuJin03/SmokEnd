@@ -52,10 +52,13 @@
 ### 3. 제품 상세 페이지
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="images/product_detail.png" width="40%">
-  <p>
-    금연껌, 패치, 흡입기 등 금연 보조 제품의 이미지, 설명, 사용 방법이 포함된 상세 소개 화면입니다.
+   <p>
+    팀에서 개발한 흡연량 측정 스마트 담배 케이스의  
+    제품 이미지, 주요 기능, 사용 방법 등이 담긴 상세 소개 화면입니다.  
+    사용자의 흡연 습관을 기록하고 금연을 유도하는 핵심 하드웨어로,  
+    앱/웹 플랫폼과 연동되어 금연 현황 시각화 및 데이터 분석에 활용됩니다.
   </p>
+  <img src="images/product_detail.png" width="40%">
 </div>
 
 ---
